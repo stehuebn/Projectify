@@ -1,14 +1,14 @@
 created: 20210112221205605
 modified: 20210201212652356
-tags: 
+tags:
 title: Readme
 type: text/vnd.tiddlywiki
 
-\define tv-wikilink-template() https://projectify.wiki/demo.html#$uri_encoded$
+\define tv-wikilink-template() https://thaddeusjiang.github.io/Projectify/demo.html#$uri_encoded$
 
 ! Projectify
 
-Projectify is a project management app for [[TiddlyWiki|https://tiddlywiki.com]], inspired by products like [[Todoist|https://todoist.com]] and [[Basecamp|https://basecamp.com]]. 
+Projectify is a project management app for [[TiddlyWiki|https://tiddlywiki.com]], inspired by products like [[Todoist|https://todoist.com]] and [[Basecamp|https://basecamp.com]].
 
 [[TiddlyWiki|https://tiddlywiki.com]] is an excellent note-taking & knowledge-base app with [[unique features|https://tiddlywiki.com/#TiddlyWiki]]. Projectify brings project management to ~TiddlyWiki, extending it to let you [[capture thoughts|$:/plugins/nico/projectify/doc/Inbox]], [[plan projects|$:/plugins/nico/projectify/doc/Projects]] and [[schedule tasks|$:/plugins/nico/projectify/doc/Schedule]].
 
@@ -18,13 +18,13 @@ For all changes in the latest {{$:/plugins/nico/projectify!!version}} release, s
 
 !! Demo
 
-A demo is available at [[projectify.wiki|https://projectify.wiki]].
+A demo is available at [[thaddeusjiang.github.io/Projectify|https://thaddeusjiang.github.io/Projectify]].
 
 !! Download
 
 Download a pre-configured empty wiki:
 
-<a class="py-btn btn-primary download-link" href="https://projectify.wiki/empty.html" download="empty.html">
+<a class="py-btn btn-primary download-link" href="https://thaddeusjiang.github.io/Projectify/empty.html" download="empty.html">
   Get Projectify {{$:/core/images/save-button}}
 </a>
 

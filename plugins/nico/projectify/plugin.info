@@ -5,7 +5,7 @@
     "author": "NicolasPetton",
     "version": "0.14.0",
     "core-version": ">=5.1.22",
-    "source": "https://github.com/NicolasPetton/Projectify",
+    "source": "https://github.com/thaddeusjiang/Projectify",
     "list": "doc/Help changelog LICENSE",
     "dependents": "",
     "plugin-type": "plugin"
